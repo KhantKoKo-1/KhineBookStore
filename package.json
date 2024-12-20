@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "flag-icons": "^7.2.3",
     "init": "^0.1.2",
     "next": "15.1.2",
     "react": "^19.0.0",
